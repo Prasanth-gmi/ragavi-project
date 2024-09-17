@@ -1,0 +1,10 @@
+crewai
+ollama
+requests
+rich
+fastapi
+pydantic
+langchain_groq
+uvicorn
+crewai_tools
+python-multipart
